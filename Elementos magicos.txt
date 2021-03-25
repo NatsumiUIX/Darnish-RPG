@@ -1,0 +1,109 @@
+- Pyro (OK)
+    Descrição:
+      Esse elemento é responsável pelo calor que é muitas vezes uma ótima ferramenta proposionando as
+      criaturas a capacidade de atear fogo ou derreter uma serie de coisas
+
+    Efeitos práticos:
+      Dano a longo prazo
+      Derreter ou evaporar
+
+    Deuses associados:
+      WIP
+
+    Fraquezas:
+      Hydro
+      Cryo
+
+- Hydro (OK)
+    Descrição:
+      Indev
+
+    Efeitos práticos:
+      Indev
+
+    Deuses associados:
+      WIP
+
+    Fraquezas:    
+
+- Geo (OK)
+    Descrição:
+      Indev
+
+    Efeitos práticos:
+      Indev
+
+    Deuses associados:
+      WIP
+
+- Cryo
+    Descrição:
+      Indev
+
+    Efeitos práticos:
+      Indev
+
+    Deuses associados:
+      WIP
+
+- Aero
+    Descrição:
+      Indev
+
+    Efeitos práticos:
+      Indev
+
+    Deuses associados:
+      WIP
+
+- Electro
+    Descrição:
+      Indev
+
+    Efeitos práticos:
+      Indev
+
+    Deuses associados:
+      WIP
+
+- Fito
+    Descrição:
+      Indev
+
+    Efeitos práticos:
+      Indev
+
+    Deuses associados:
+      WIP
+
+- Bio
+    Descrição:
+      Indev
+
+    Efeitos práticos:
+      Indev
+
+    Deuses associados:
+      WIP
+
+- Mors
+    Descrição:
+      Indev
+
+    Efeitos práticos:
+      Indev
+
+    Deuses associados:
+      WIP
+
+- Ether
+    Descrição:
+      Indev
+
+    Efeitos práticos:
+      Indev
+
+    Deuses associados:
+      WIP
+
+3/10
