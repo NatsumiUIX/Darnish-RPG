@@ -1,25 +1,25 @@
-# Darnish RPG: Elementos Simples // Template
+# Darnish RPG: Elementos Simples // Aero
 
-Isso é um template que pode e será usado na hora de criação e detalhação de outros elementos, o intuito é padronizar e deixar tudo de forma mais facilmente entendivel
-
-## NOME DO ELEMENTO
-
-PEQUENA DESCRIÇÃO
+A origem da força dos ventos que irá lhe auxiliar em sua movimentação e outros fins, como mover moinhos ou afastar inimigos com uma forte ventania, pode ser muito útil para aqueles que dependem de ser ágeis como o vento ou para pessoas que dependem do balão como meio de transporte, há várias utilidades que o vento pode lhe proporcionar
 
 ### Efeitos Práticos
 
-LISTA NÃO ORDENADA DE EFEITOS PRÁTICOS
+- Agilidade e movimentação aumentados
+- Dificultar a movimentação de inimigos
+- Arremessar inimigos leves sem encostar neles
+- Mover veículos ou moinhos usando a força dos ventos
 
 ### Deuses Associados
 
-LISTA NÃO ORDENADA DE DEUS QUE USAM ESSE ELEMENTO
+Darnish RPG: Mitologia ainda está em desenvolvimento (WIP)
 
 ### Fraquezas
 
 Elemento         | Motivos
 ---------------- | --------
-ELEMENTO SIMPLES | MOTIVO DO ELEMENTO SER A FRAQUEZA
+Pyro             | O calor pode fazer o vento expandir fazendo a sua força correr de suas mãos
+Geo              | Em muitos casos o vento não é capaz de parar uma rocha, me mesmo move-lá
 
 ### Trivia
 
-LISTA ORDENADA DO MAIS NOVO PRO MAIS VELHO DE UMA TRIVIA DE MUDANÇAS NO ELEMENTO
+Darnish RPG v1.0.0 - Adicionado Aero
