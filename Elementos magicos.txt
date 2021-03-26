@@ -6,7 +6,7 @@
 
 - Cryo (OK)
 
-- Aero
+- Aero (OK)
 
 - Electro
 
@@ -16,4 +16,4 @@
 
 - Ether
 
-4/9
+5/9
