@@ -8,7 +8,7 @@
 
 - Aero (OK)
 
-- Electro
+- Electro (OK)
 
 - Vita
 
@@ -16,4 +16,4 @@
 
 - Ether
 
-5/9
+6/9
