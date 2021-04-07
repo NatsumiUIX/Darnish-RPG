@@ -18,7 +18,7 @@ Darnish RPG: Mitologia ainda está em desenvolvimento (WIP)
 Elemento         | Motivos
 ---------------- | --------
 Pyro             | O calor pode fazer o vento expandir fazendo a sua força correr de suas mãos
-Geo              | Em muitos casos o vento não é capaz de parar uma rocha, me mesmo move-lá
+Geo              | Em muitos casos o vento não é capaz de parar uma rocha, nem mesmo move-lá
 
 ### Trivia
 
