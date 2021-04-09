@@ -4,6 +4,9 @@
 
 Em discussão
 
+VIDA: 5d10
+PONTOS: 50
+
 ## Modelo básico
 
 ### Identidade
