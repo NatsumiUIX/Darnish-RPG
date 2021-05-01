@@ -1,10 +1,10 @@
 # Síbamo: Fichas // Jogador e NPC
 
-A ficha para NPC e Jogador, consiste no mesmo tipo de ficha, isso porque a ficha é onde se guarda valores e atributos importantes para o momento do combate, seja um combate físico ou apenas uma discussão entre personagens
+A ficha para NPC e Jogador, consiste no mesmo tipo de ficha, isso porque a ficha é onde se guarda valores e atributos importantes para o momento do combate e para a decisão do destino de seu personagem, seja um combate físico, uma discussão entre personagens ou até mesmo o quão seguro era o caminho que ele está transitando
 
 ## Qual a melhor maneira de criar a ficha?
 
-A melhor e a forma oficial de se criar uma ficha usando o Síbamo é ter a sua enciclopédia de espécies selecionais e classes para que possa-se se calcular os buffs, logo em seguida, role cinco dados de 10 lados, depois some-os e você terá o valor máximo de sua vida, além disso você também terá 50 pontos de distribuição e poderá distribuir entre seus status Físico, Mágico e Mental tirando a vida máxima e você também não pode deixar o atributo zerado, precisando ter pelo menos 1 em todos os atributos
+A melhor e a forma oficial de se criar uma ficha usando o Síbamo é ter a sua enciclopédia de espécies e classes selecionadas para que possa-se se calcular os atributos adicionais, logo em seguida, role cinco dados de 10 lados e depois somando-os para ter o valor máximo de sua vida, além disso você também terá 50 pontos de distribuição e poderá distribuir entre seus status Físico, Mágico e Mental tirando a vida máxima e você também não pode deixar nenhum dos atributos zerado, precisando ter pelo menos 1 em todos os atributos
 
 Quando for falar de sua classe, coloque a sua classe e a passiva que você escolheu da classe entre parênteses, para que deixe claro qual passiva está em atividade no seu personagem
 
@@ -14,62 +14,62 @@ Quando o seu mestre decidir que você upou de nível, você deverá ganhar dois 
 
 ## Simplificando a vida do mestre
 
-Quando for criar sua ficha no Síbamo, recomendamos deixar um pré calculo na sua ficha, por exemplo, você tem 3 de Força base, com +2 de sua classe e +7 de espécie, na sua ficha você pode colocar `FO: 3 (2+7=12)` para resumir e facilitar o trabalho de seu mestre no momento da cena, seu mestre apenas precisará adicionar o buff de seu equipamento e subtrair pela Resistência do seu inimigo e não recomendamos você também colocar o resultado dos efeitos de suas passivas ou dos efeitos do seu equipamento, estamos tentando simplificar cálculos e ao mesmo tempo deixar a ficha simples ao máximo possível
+Quando for criar sua ficha no Síbamo, recomendamos deixar um pré calculo na sua ficha, por exemplo, você tem 3 de Força base, com +2 de sua classe e +7 de espécie, na sua ficha você pode colocar `FF: 3 (2+7=12)` para resumir e facilitar o trabalho de seu mestre no momento da cena, seu mestre apenas precisará adicionar os adicionais de seu equipamento e subtrair pela Resistência física do seu inimigo e não recomendamos você também colocar o resultado dos efeitos de suas passivas ou dos efeitos do seu equipamento, estamos tentando simplificar cálculos e ao mesmo tempo deixar a ficha simples ao máximo possível
 
 ## Modelo básico
 
 ### Identidade
 
-Nome (N):
-> Esse será o nome do seu personagem
+Nome (NI):
+> O nome verdadeiro de seu personagem
 
-Família (F):
-> O sobrenome que foi herdade de sua família
+Família (FI):
+> O sobrenome da fámilia do seu personagem
 
-Espécie (E):
-> A espécie que ele é, muito importante na hora de calcular os buffs, já que cada espécie oferece seus buffs
+Espécie (EI):
+> A espécie biológica ao quão ele pertence
 
-Classe (CLS):
-> A classe escolhida pelo jogador que é tão importante quanto a espécie na hora de calcular os buffs
+Classe (CI):
+> A classe ou profissão que seu personagem tem
 
-Level (LV):
-> O nível de habilidade de seu personagem e o quão forte ele é
+Level (LI):
+> O nível de experiência do seu personagem
  
-Extra (EX):
-> Descrição, biografia ou lore, fica a seu critério o que pôr aqui
+Extra (XI):
+> Informações extras como descrição, biografia ou lore, fica a seu critério o que pôr aqui
 
-Poderes (PD):
+Poderes (PI):
 > Uma lista de 3 poderes que seu personagem consegue usar
 
 ### Físico
 
-Vida máxima (VM):
-> O quanto de vida seu personagem tem ao máximo
+Vida máxima (VD):
+> O quanto de vida seu personagem tem no máximo
 
-Velocidade (V):
-> A velocidade e agilidade do seu personagem, importante pra definir turno
+Velocidade (VA):
+> A velocidade e agilidade do seu personagem, usada durante a decisão de turnos
 
-Força (FO):
-> O quão forte é seu personagem
+Força física (FF):
+> O quão forte é o físico de seu personagem
 
-Resistência (R):
+Resistência física (RF):
 > O quanto seu personagem é resistente a dor física
 
 ### Mágico
 
-Poder mágico (P):
-> Isso representa o quão poderoso seu personagem é
+Poder mágico (PM):
+> Isso representa o quão poderoso seu personagem é, ao utilizar mágias
 
-Escudo mágico (EM):
-> Quanto de poder mágico seu personagem absorve
+Proteção mágica (EM):
+> Quanto de poder mágico seu personagem consegue absorver
 
 Maestria mágica (MM):
-> A quantidade de experiência que seu personagem tem com magia, reduz o tempo de canalização
+> O quão rápido seu personagem consegue ser ao canalizar uma mágia
 
 ### Mental
 
-Penetração (PE):
-> O quão convicente seu personagem consegue ser
+Persuasão (PL):
+> O quão convicente seu personagem consegue ser, ao falar ou tocar algo
 
-Fortaleza (FZ):
+Convicção (CL):
 > O quanto seu personagem consegue ser resistente a truques
