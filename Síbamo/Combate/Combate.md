@@ -12,7 +12,9 @@ Durante o combate, você poderá usar poderes, mas também, mesmo sendo mago, vo
 
 ## Uso de poderes
 
-No Síbamo, poderes são ferramentas de utilidades, poderes necessitam ser canalizados durante alguns turnos para poder ser usados, lembrando que o tempo de canalização é reduzido baseado na sua Maestria Mágica, para saber quanto tempo é necessario para canalizar, você divide a Maestria Mágica pelo tempo de canalização e depois arrendonda o resultado, durante a canalização, caso o úsuario sofra qualquer dano, a canalização será cancelada e durante a canalização você não poderá reagir nem atacar
+No Síbamo, poderes são ferramentas de utilidades, poderes necessitam ser canalizados durante alguns turnos para poder ser usados, lembrando que o tempo de canalização dos poderes é reduzido baseado na sua Maestria Mágica, para saber quanto tempo é necessario para canalizar, você divide a Maestria Mágica pelo tempo de canalização e depois arrendonda o resultado, durante a canalização, caso o úsuario sofra qualquer dano, a canalização será cancelada e durante a canalização você não poderá reagir nem atacar
+
+Todos os turnos que passam são contados no seu tempo de canalização, porém, o ataque só será lançado quando for o seu turno, isso vale para qualquer tipo de canalização
 
 ## Área do combate
 
