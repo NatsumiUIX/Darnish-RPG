@@ -11,17 +11,11 @@
 Nome (NI):
 > O nome verdadeiro de seu personagem
 
-Família (FI):
-> O sobrenome da fámilia do seu personagem
-
 Espécie (EI):
 > A espécie biológica ao quão ele pertence
 
 Classe (CI):
 > A classe ou profissão que seu personagem tem
-
-Level (LI):
-> O nível de experiência do seu personagem
  
 Extra (XI):
 > Informações extras como descrição, biografia ou lore, fica a seu critério o que pôr aqui
@@ -29,19 +23,27 @@ Extra (XI):
 Poderes (PI):
 > Uma lista de 3 poderes que seu personagem consegue usar
 
-### Físico
+### Geral
 
-Vida máxima (VD):
+Vida máxima (VG):
 > O quanto de vida seu personagem tem no máximo
 
-Velocidade (VA):
+Velocidade (EG):
 > A velocidade e agilidade do seu personagem, usada durante a decisão de turnos
+
+Experiência (XG):
+> O nível de experiência do seu personagem
+
+### Físico
 
 Força física (FF):
 > O quão forte é o físico de seu personagem
 
 Resistência física (RF):
 > O quanto seu personagem é resistente a dor física
+
+Agilidade (AF)
+> **TODO**
 
 ### Mágico
 
@@ -61,3 +63,6 @@ Persuasão (PL):
 
 Convicção (CL):
 > O quanto seu personagem consegue ser resistente a truques
+
+Adaptabilidade (AL):
+> **TODO**
