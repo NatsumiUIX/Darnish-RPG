@@ -1,28 +1,10 @@
 # Síbamo: Fichas // Jogador e NPC
 
-A ficha para NPC e Jogador, consiste no mesmo tipo de ficha, isso porque a ficha é onde se guarda valores e atributos importantes para o momento do combate e para a decisão do destino de seu personagem, seja um combate físico, uma discussão entre personagens ou até mesmo o quão seguro era o caminho que ele está transitando
+**TODO:** Descrição de como funciona a ficha
 
-## Qual a melhor maneira de criar a ficha?
+**TODO:** Explicações sobre a ficha
 
-A melhor e a forma oficial de se criar uma ficha usando o Síbamo é ter a sua enciclopédia de espécies e classes selecionadas para que possa-se se calcular os atributos adicionais, logo em seguida, role cinco dados de 10 lados e depois somando-os para ter o valor máximo de sua vida, além disso você também terá 50 pontos de distribuição e poderá distribuir entre seus status Físico, Mágico e Mental tirando a vida máxima e você também não pode deixar nenhum dos atributos zerado, precisando ter pelo menos 1 em todos os atributos
-
-Quando for falar de sua classe, coloque a sua classe e a passiva que você escolheu da classe entre parênteses, para que deixe claro qual passiva está em atividade no seu personagem
-
-## Criando seus poderes da maneira correta
-
-Na hora de criar poderes, descreva exatamente o que ele faz, se ele machuca, cura, paralisa, agarra ou até mesmo dá atributos adicionais temporáriamente, além de pôr um tempo de canalização alto, para que a Maestria Mágica tenha sentido e efeito, mesmo que você tenha 1 de Maestria Mágica, por exemplo um tempo de canalização de 20 turnos, seu mestre decidirá qual o melhor tempo de canalização para seu poder
-
-Quando seu poder estiver pronto, você pode adiciona-ló a sua ficha diretamente, ou criar um arquivo separado e apenas usar do nome como identificar fica ao seu critério como achar que fica melhor
-
-## Como funciona o sistema de nível
-
-Quando o seu mestre decidir que você upou de nível, você deverá ganhar dois pontos de distribuição, que dará 1 de valor em todos os atributos com excessão a vida, que cada ponto gasto nela, aumentará 5 em vez de 1
-
-## Simplificando a vida do mestre
-
-Quando for criar sua ficha no Síbamo, recomendamos deixar um pré calculo na sua ficha, por exemplo, você tem 3 de Força base, com +2 de sua classe e +7 de espécie, na sua ficha você pode colocar `FF: 3 (2+7=12)` para resumir e facilitar o trabalho de seu mestre no momento da cena, seu mestre apenas precisará adicionar os adicionais de seu equipamento e subtrair pela Resistência física do seu inimigo e não recomendamos você também colocar o resultado dos efeitos de suas passivas ou dos efeitos do seu equipamento, estamos tentando simplificar cálculos e ao mesmo tempo deixar a ficha simples ao máximo possível
-
-## Modelo básico
+## Modelo de ficha
 
 ### Identidade
 
