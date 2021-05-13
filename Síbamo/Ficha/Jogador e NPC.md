@@ -60,7 +60,7 @@ Força física (FF):
 Resistência física (RF):
 > O quanto seu personagem é resistente a dor física
 
-Agilidade (AF)
+Agilidade (AF):
 > A velocidade de reação de seu personagem ao ser atacado
 
 ### Mágico
